@@ -9,8 +9,12 @@ This study aims to identify key attributes that influence the approval or denial
   * sex_dataset.csv.zip
   * sex_data_preprocessing.ipynb
   * race_data_preprocessing.ipynb
-  * race_exploration.ipynb
-  * sex_exploration.ipynb
+  * raceincluded.ipynb
+  * sexincluded.ipynb
+  * racenotincluded.ipynb
+  * sexnotincluded.ipynb
+  * raceaddedbias.ipynb
+  * sexaddedbias.ipynb
 
 ## Orginal HMDA dataset:
 Due to the large size of the original HMDA dataset, it is not able to be uploaded to Github. However, the original dataset can be accessed through this link: 
