@@ -5,6 +5,7 @@ This study aims to identify key attributes that influence the approval or denial
 
 ## Files included
   * original_HMDA_dataset.csv
+  * features_description.pdf
   * race_dataset.csv
   * sex_dataset.csv
   * sex_data_preprocessing.ipynb
