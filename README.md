@@ -7,6 +7,8 @@ This study aims to identify key attributes that influence the approval or denial
   * features_description.pdf -  this documentation is provided by the Consumer Financial Protection Bureau
   * race_dataset.csv.zip
   * sex_dataset.csv.zip
+  * added_race_bias.csv.zip
+  * added_sex_bias.csv.zip
   * sex_data_preprocessing.ipynb
   * race_data_preprocessing.ipynb
   * raceincluded.ipynb
