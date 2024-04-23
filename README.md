@@ -12,5 +12,6 @@ This study aims to identify key attributes that influence the approval or denial
   * race_data_preprocessing.ipynb
   * race_exploration.ipynb
   * sex_exploration.ipynb
+  * ganttchart.pdf
 
 
