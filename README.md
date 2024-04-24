@@ -5,20 +5,20 @@ This study aims to identify key attributes that influence the approval or denial
 
 ## Files included
   * features_description.pdf -  this documentation is provided by the Consumer Financial Protection Bureau
-  * race_dataset.csv.zip
-  * sex_dataset.csv.zip
-  * added_race_bias.csv.zip
-  * added_sex_bias.csv.zip
-  * sex_data_preprocessing.ipynb
-  * race_data_preprocessing.ipynb
-  * raceincluded.ipynb
-  * sexincluded.ipynb
-  * racenotincluded.ipynb
-  * sexnotincluded.ipynb
-  * raceaddedbias.ipynb
-  * sexaddedbias.ipynb
-  * raceevaluationresults.xlsx
-  * sexevaluationresults.xlsx
+  * race_dataset.csv.zip - processed dataset used for training models for race exploration
+  * sex_dataset.csv.zip - processed dataset used for training models for sex exploration
+  * added_race_bias.csv.zip - dataset with additional race-related bias
+  * added_sex_bias.csv.zip - dataset with additional sex-related bias
+  * sex_data_preprocessing.ipynb - preprocessing code for dataset for sex bias exploration 
+  * race_data_preprocessing.ipynb - preprocessing code for dataset for race bias exploration 
+  * raceincluded.ipynb - code for models for training included race
+  * sexincluded.ipynb - code for models for training included sex
+  * racenotincluded.ipynb - code for models for training not including race attribute
+  * sexnotincluded.ipynb - code for models for training not including sex attribute
+  * raceaddedbias.ipynb - code for models for training with additional race-related bias
+  * sexaddedbias.ipynb - code for models for training with additional sex-related bias
+  * raceevaluationresults.xlsx - Excel spreadsheet containing results from race exploration
+  * sexevaluationresults.xlsx - Excel spreadsheet containing results from sex exploration
 
 ## Orginal HMDA dataset:
 Due to the large size of the original HMDA dataset, it is not able to be uploaded to Github. However, the original dataset can be accessed through this link: 
